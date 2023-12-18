@@ -1,0 +1,20 @@
+{
+  "name": "Fredrick Onyango",
+  "bio": "Port Operation | Logistics Coordinator | Freight Forwarder |",
+  "links": [
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/aTfure",
+      "icon": "FaXTwitter"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/fredonyango/",
+      "icon": "FaLinkedinIn"
+    },
+    {
+      "name": "Behance",
+      "url": "https://www.behance.net/aTfure",
+      "icon": "FaBehance"
+    },
+  ]
